@@ -1,7 +1,7 @@
-# typescrypt-client (avec le module Webpack)
+# Typescript-client (avec le module Webpack)
 Préprocesseur (typescrypt) côté client
 
-#INSTALATION
+# INSTALATION
 1. npm init && npm install --save webpack && npm install --save ts-loader && npm install typescript --save-dev
 2. Crée le fichié suivant: index.html(script vers le fichier index.bundle.js).
 3. Crée les fichiés de configuration (tsconfig.json && webpack.config.js)
