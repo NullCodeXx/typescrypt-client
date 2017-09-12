@@ -2,8 +2,9 @@ import {Compteur} from './compteur';
 
 const compteur = new Compteur();
 
-compteur.increment();
-compteur.decrement();
+compteur.increment();//INCREMENT DE 1
+compteur.increment();//2
+compteur.increment();//3
 compteur.displayCount();
 
-console.log(compteur.displayCount);
+console.log(compteur.displayCount());

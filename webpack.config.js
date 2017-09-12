@@ -21,4 +21,4 @@ module.exports = {
     devtool: 'inline-source-map'
 }
 
-// Voir le fichier package.json
+// Voir le fichier package.json ligne 7.
